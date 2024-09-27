@@ -1,10 +1,6 @@
-Hi, I’m Lukas!
+Hi, I’m Lukas. I'm a recent MA in International Affairs graduate of the Hertie School. Follow my Github to keep up with any international security or democracy related data science projects I'll be posting here. 
 
-My background is in political science and I'm interested in using what I learn by studying R to explore topics like democratization, corruption and elections
-
-I’m currently working with R, but may begin learning Python soon.
-
-If you're interested in collaborating on a project, follow and send me a message on Twitter!
+Follow my Substack! https://datasci.substack.com/
 
 How to reach me - @LukasLehmann70 on Twitter
 
